@@ -19,5 +19,5 @@ int main()
 
 	cout << setprecision(1) << fixed << "The average is " << a << endl;
 
-	return 0;
+	cout <<endl <<endl;
 }
